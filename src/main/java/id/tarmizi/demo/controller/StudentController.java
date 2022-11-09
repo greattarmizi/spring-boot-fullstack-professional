@@ -2,8 +2,10 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package id.tarmizi.demo.student;
+package id.tarmizi.demo.controller;
 
+import id.tarmizi.demo.student.Gender;
+import id.tarmizi.demo.student.Student;
 import java.util.Arrays;
 import java.util.List;
 import org.springframework.web.bind.annotation.GetMapping;
